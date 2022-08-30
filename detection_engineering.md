@@ -30,6 +30,7 @@
     - Part 2: Operations - https://posts.specterops.io/on-detection-tactical-to-functional-37ddcd75234b
     - Part 3: Expanding the Function Call Graph - https://posts.specterops.io/on-detection-tactical-to-functional-45e41fef7af4
     - Part 4: Compound Functions - https://posts.specterops.io/on-detection-tactical-to-functional-5ff667af633b
+    - Part 5: Expanding the Operation Graph - https://medium.com/specter-ops-posts/on-detection-tactical-to-functional-fef1e09d3174
 
   - Playing Detection with a Full Deck - https://posts.specterops.io/thoughts-on-detection-3c5cab66f511
   - Understanding the Function Call Stack - https://medium.com/specter-ops-posts/understanding-the-function-call-stack-f08b5341efa4

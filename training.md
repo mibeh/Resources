@@ -1,1 +1,10 @@
-
+https://www.udemy.com/course/practical-ethical-hacking/
+https://www.hackthebox.eu/
+https://main.immersivelabs.online/
+https://web.stanford.edu/class/cs253/
+https://portswigger.net/web-security
+https://owasp.org/www-project-vulnerable-web-applications-directory/
+http://malware-traffic-analysis.net/training-exercises.html
+https://tryhackme.com/
+https://letsdefend.io/
+https://cyberdefenders.org/
